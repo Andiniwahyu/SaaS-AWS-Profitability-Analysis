@@ -24,13 +24,17 @@ This profitability analysis reveals an upward profit trend from 2020 to 2023, wi
 ## 4. Insights
 
 *   **Profit Trend Over Time:** While the overall trend from 2020 to 2023 is upward, there was significant inconsistency, particularly before late 2022. The average monthly profit was $5,967, but many months fell below this, indicating a need for more stable growth.
+![Profit Trend Over Time](Slide1.png)
 
 *   **January 2021 Profit Drop:** A significant loss of $3,281 was recorded in January 2021. This was a critical event that stands out against the general growth trend. A deep dive into this period revealed that top loss-making products like `ContactMatcher` and `Big OI Database` received large discounts. Similarly, key customers such as `Morgan Stanley` and `Tyson Foods` recorded the largest losses despite high discounts, suggesting that heavy discounting does not always lead to profitability.
+![January 2021 Drop](Slide2.png)
+![January 2021 Drill-Down](Slide3.png)
 
 *   **Best-Selling Product Profit Problem:** Our best-selling product, `ContactMatcher`, despite generating over $410K in revenue, only delivers a 3% profit margin, placing it in the low-margin zone. `Big OI Database` and `Marketing Suite` also show low or even negative margins. This indicates that discounting is a significant factor impacting profitability, and a closer look at the cost structure is also necessary.
+![Products Breakdown](Slide5.png)
 
 *   **Unprofitable Countries:** A geographical analysis shows a serious challenge: 5 out of our top 10 sales countries are actually generating losses. Japan shows the biggest loss, and Mexico has the worst profit margin. These losses appear to be strongly correlated with very high discounts, but further review of pricing, operational, and support costs is needed to understand the full picture.
-
+![Countries Breakdown](Slide4.png)
 
 
 ## 5. Recommendations
