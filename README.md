@@ -38,9 +38,11 @@ To optimize profitability and address the identified challenges, the following r
 ## 5. Links
 
 Explore the full interactive experience and detailed analysis directly on Tableau Public:
-Interactive Dashboard: [https://public.tableau.com/views/SaaSAWSProfitabilityDashboard/DashboardFinal?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
-Interactive Slides: [https://public.tableau.com/views/SaaSInsightsPresentation/SaaSAWSProfitabilityAnalysis2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
-Dataset Source: [https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales]
+Interactive Dashboard: https://public.tableau.com/views/SaaSAWSProfitabilityDashboard/DashboardFinal?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Interactive Slides: https://public.tableau.com/views/SaaSInsightsPresentation/SaaSAWSProfitabilityAnalysis2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dataset Source: https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales
 
 
