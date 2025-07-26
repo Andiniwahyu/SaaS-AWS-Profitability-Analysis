@@ -9,6 +9,7 @@ The project addresses the fundamental question: "How can we optimize our product
 ## 2. Executive Summary
 This profitability analysis reveals an upward profit trend from 2020 to 2023, with significant growth observed in late 2022 and consistent gains in 2023. However, the business experienced inconsistency and struggled to stay above the average profit of $5,967 in earlier periods. A notable loss of $3,281 occurred in January 2021, primarily driven by large discounts on products like ContactMatcher and Big OI Database, and significant losses from key customers such as Morgan Stanley and Tyson Foods. Furthermore, while some products are best-sellers, they exhibit low profit margins (e.g., ContactMatcher with 3% profit margin). Geographically, 5 out of the top 10 best-selling countries are unprofitable, with Japan showing the largest loss and Mexico the worst profit margin, largely due to high discounts. This report provides recommendations to address these challenges and optimize profitability.
 
+![Dashboard Preview](DashboardAWS.png)
 
 ## 3. Insights
 
